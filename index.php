@@ -36,7 +36,7 @@
 					<div class="box_menu">
 						<nav>
 						<ul>
-							<li><div class="hover"><img src="assets/img/ball.png"></div><a href="#home">Home</a></li>
+							<li><div class="hover"><!--<img src="assets/img/ball.png">--></div><a href="#home">Home</a></li>
 							<li><a href="#sobre">Sobre</a></li>
 							<li><a href="#servicos">Serviços</a></li>
 							<li><a href="#portfolio">Portfólio</a></li>

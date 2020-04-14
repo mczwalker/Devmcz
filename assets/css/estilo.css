@@ -93,6 +93,9 @@ nav a{
 	width: 100px;
 	height: 90px;
 	z-index: -1;
+	background-image: url('../img/ball.png');
+	background-repeat: no-repeat;
+	background-position: center;
 }
 .background{
 	background-image: url('../img/tech.jpg');
