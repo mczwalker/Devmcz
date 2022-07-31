@@ -58,7 +58,7 @@
 					Allysson Tolêdo
 				</div>
 				<div class="textomenor">
-					Desenvolvedor Web #
+					Desenvolvedor
 				</div>
 			</div>			
 		</div>
